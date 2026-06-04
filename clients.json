@@ -1,0 +1,6 @@
+[
+    {"company": "Stripe", "monthly_cost": 250.50},
+    {"company": "Zoom", "monthly_cost": 45.00},
+    {"company": "Slack", "monthly_cost": 610.00},
+    {"company": "Shopify", "monthly_cost": 890.00}
+]
